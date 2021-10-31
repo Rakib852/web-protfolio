@@ -15,7 +15,7 @@ h1{
     padding: 2%;
 }
 .halp img{
-    width: 50%;
+    width: 80%;
     float: right;
 }
 .top-banner{
@@ -32,4 +32,8 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.halp-width img{
+    width: 40%;
+    float: left;
 }
